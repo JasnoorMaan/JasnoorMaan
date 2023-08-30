@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm JasnoorMaan</h1>
 <h3 align="center">Designer and Developer always looking forward to learn new technologies to be a full stack someday.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasnoormaan" alt="jasnoormaan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mxxnjasnoor" target="blank"><img src="https://img.shields.io/twitter/follow/mxxnjasnoor?logo=twitter&style=for-the-badge" alt="mxxnjasnoor" /></a> </p>
 
 - 🌱 I’m currently learning **Backend development & Computer Vision.**
